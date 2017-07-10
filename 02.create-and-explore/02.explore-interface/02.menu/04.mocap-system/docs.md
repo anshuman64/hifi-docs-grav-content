@@ -16,8 +16,6 @@ This page guides you through the process of configuring and calibrating Vive tra
 
 You will need to purchase [Vive trackers](https://www.vive.com/us/vive-tracker/) to set-up a mocap system for yourself in High Fidelity. Depending on what kind of motion capture you’re looking for, the number of trackers needed differ.
 
-![img](body-placement.png)
-
 - Only feet: 2 Vive trackers.
 - Feet and hips: 3 Vive trackers.
 - Feet, hips and chest: 4 Vive trackers.
@@ -32,6 +30,7 @@ To use the trackers, you need to strap them on to different parts of your body. 
 * [Hand Straps](https://www.amazon.com/SublimeWare-Degree-Rotation-Session-SJ4000/dp/B01H18TY2S/ref=sr_1_2?ie=UTF8&qid=1492804865&sr=8-2&keywords=go+pro+arm+mount)
 * [Head Straps](https://www.amazon.com/EEEKit-Kidizoom-Action-EK7000-DBPOWER/dp/B019SXPF3G/ref=sr_1_1?ie=UTF8&qid=1492795518&sr=8-1&keywords=EEEKit+Head+Strap+Mount+for+VTech+Kidizoom+Kids+Cam%2C)
 
+![img](body-placement.png)
 
 
 ### Configure Your Mocap System
